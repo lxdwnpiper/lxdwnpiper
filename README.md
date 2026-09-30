@@ -17,6 +17,8 @@ but you have to start to become extraordinary.
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wanzroot)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lowanze)
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alwanwijayaxd)
+
+---
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -31,7 +33,5 @@ but you have to start to become extraordinary.
 ![SQLMap](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-4B0082?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![ffuf](https://img.shields.io/badge/ffuf-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Dalfox](https://img.shields.io/badge/Dalfox-FF6B6B?style=for-the-badge&logo=go&logoColor=white)
 ![Nuclei](https://img.shields.io/badge/Nuclei-1E90FF?style=for-the-badge&logo=go&logoColor=white)
-![mitmproxy](https://img.shields.io/badge/mitmproxy-1B4D3E?style=for-the-badge&logo=python&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
