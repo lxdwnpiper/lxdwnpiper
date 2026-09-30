@@ -91,9 +91,7 @@ but you have to start to become extraordinary.
       </picture>
     </a></td>
   </tr>
-  <tr>
-    <td colspan="6" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
-      <picture>
+ 
         <source
           srcset="https://github-profile-trophy.vercel.app/?username=lxdwnpiper&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
           media="(prefers-color-scheme: dark)" />
