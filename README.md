@@ -20,9 +20,14 @@ but you have to start to become extraordinary.
 
 </table>
 
----
-<div align="center">
-  <i>"Learning everyday, one step at a time"</i>
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=wooxsec&color=blueviolet&style=flat-square)
-</div>
+<!--START_SECTION:waka-->
+
+```txt
+Unknown      19 hrs 10 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.76 %
+Markdown     10 hrs 59 mins  🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.33 %
+Rust         7 hrs 20 mins   🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.57 %
+Python       1 hrs 48 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.84 %
+Ssa          1 hrs 32 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.27 %
+```
+
+<!--END_SECTION:waka-->
