@@ -7,7 +7,7 @@
     <td valign="top" width="0%" style="padding-left: 20px;">
     
 
-## Hi 👋
+## Hi..
       
 Hello there, welcome to my GitHub.
 You don't have to be extraordinary to start
