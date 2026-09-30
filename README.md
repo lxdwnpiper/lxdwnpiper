@@ -1,9 +1,9 @@
 <table>
   <tr>
     <td valign="top" width="0%" align="center">
-      <img src="./twitter-gif-2104970586086842528_6abcf83fb35d7.gif" width="380" style="border-radius: 0px;" alt="Hacking Anime" />
+      <img src="./twitter-gif-2104970586086842528_6abcf83fb35d7.gif" width="380" style="border-radius: 100px;" alt="Hacking Anime" />
     </td>
-    <td valign="top" width="0%" style="padding-left: 0px;">
+    <td valign="top" width="0%" style="padding-left: 100px;">
 
 ## Hi 👋
       
