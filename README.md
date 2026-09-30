@@ -18,7 +18,8 @@ but you have to start to become extraordinary.
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lowanze)
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alwanwijayaxd)
 
-</table>
+
+
 
 <table width="100%" align="center">
   <tr>
@@ -91,17 +92,16 @@ but you have to start to become extraordinary.
       </picture>
     </a></td>
   </tr>
- 
+  <tr>
+    <td colspan="6" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
+      <picture>
         <source
           srcset="https://github-profile-trophy.vercel.app/?username=lxdwnpiper&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
           media="(prefers-color-scheme: dark)" />
         <source
           srcset="https://github-profile-trophy.vercel.app/?username=lxdwnpiper&column=7&row=1&margin-w=8&no-bg=true&no-frame=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-profile-trophy.vercel.app/?username=lxdwnpiper&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" />
       </picture>
     </a></td>
   </tr>
 </table>
-
-<!--END_SECTION:waka-->
