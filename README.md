@@ -17,91 +17,21 @@ but you have to start to become extraordinary.
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wanzroot)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lowanze)
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alwanwijayaxd)
-
-
-
-
-<table width="100%" align="center">
-  <tr>
-    <td colspan="3" align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-      <!-- <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=lxdwnpiper&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark"
-          media="(prefers-color-scheme: dark)" />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=lxdwnpiper&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=lxdwnpiper&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long" height="100%" />
-      </picture> -->
-      <picture>
-        <source
-          srcset="https://github-readme-stats-fast.vercel.app/api?username=lxdwnpiper&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark"
-          media="(prefers-color-scheme: dark)" />
-        <source
-          srcset="https://github-readme-stats-fast.vercel.app/api?username=lxdwnpiper&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=lxdwnpiper&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long" height="100%" />
-      </picture>
-    </a></td>
-    <td colspan="3" align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
-      <picture>
-        <source
-          srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=lxdwnpiper&mode=weekly&hide_border=true&background=00000000&theme=dark"
-          media="(prefers-color-scheme: dark)" />
-        <source
-          srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=lxdwnpiper&mode=weekly&hide_border=true&background=00000000"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-streak-stats-mirror.vercel.app/?user=lxdwnpiper&mode=weekly&hide_border=true" height="100%" />
-      </picture>
-    </a></td>
-  </tr>
-  <tr>
-<!-- Thanks @zetaloop! -->
-    <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <picture>
-        <source
-          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=lxdwnpiper&border_color=0000&bg_color=0000&theme=nord_dark"
-          media="(prefers-color-scheme: dark)" />
-        <source
-          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=lxdwnpiper&border_color=0000&bg_color=0000&theme=nord_bright"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=lxdwnpiper&border_color=0000&bg_color=0000" height="100%" />
-      </picture>
-    </a></td>
-    <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <picture>
-        <source
-          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=lxdwnpiper&border_color=0000&bg_color=0000&theme=nord_dark"
-          media="(prefers-color-scheme: dark)" />
-        <source
-          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=lxdwnpiper&border_color=0000&bg_color=0000&theme=nord_bright"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=lxdwnpiper&border_color=0000&bg_color=0000" height="100%" />
-      </picture>
-    </a></td>
-    <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-<!-- UTC +8.00 好怪，等有空改成 UTC +08:00 -->
-      <picture>
-        <source
-          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=lxdwnpiper&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_dark"
-          media="(prefers-color-scheme: dark)" />
-        <source
-          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=lxdwnpiper&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_bright"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=lxdwnpiper&utcOffset=8&border_color=0000&bg_color=0000" height="100%" />
-      </picture>
-    </a></td>
-  </tr>
-  <tr>
-    <td colspan="6" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
-      <picture>
-        <source
-          srcset="https://github-profile-trophy.vercel.app/?username=lxdwnpiper&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
-          media="(prefers-color-scheme: dark)" />
-        <source
-          srcset="https://github-profile-trophy.vercel.app/?username=lxdwnpiper&column=7&row=1&margin-w=8&no-bg=true&no-frame=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      </picture>
-    </a></td>
-  </tr>
-</table>
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white)
+![Recon-ng](https://img.shields.io/badge/Recon--ng-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![theHarvester](https://img.shields.io/badge/theHarvester-2C3E50?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Amass](https://img.shields.io/badge/Amass-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![SpiderFoot](https://img.shields.io/badge/SpiderFoot-000000?style=for-the-badge&logo=spiderfoot&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego-1F4E79?style=for-the-badge&logo=maltego&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-4B0082?style=for-the-badge&logo=kalilinux&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Dalfox](https://img.shields.io/badge/Dalfox-FF6B6B?style=for-the-badge&logo=go&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-1E90FF?style=for-the-badge&logo=go&logoColor=white)
+![mitmproxy](https://img.shields.io/badge/mitmproxy-1B4D3E?style=for-the-badge&logo=python&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
